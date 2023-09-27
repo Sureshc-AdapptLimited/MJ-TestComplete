@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="MJ_1_Script" key="{19D3ED3D-486E-4136-AA95-60DEFCA963F3}" path="MJ_1_Script.js" />
+		<child name="MJ_2_Script" key="{7A27AE6D-E350-4429-A2B4-243580C066ED}" path="MJ_2_Script.js" />
+		<child name="MJ_3_Script" key="{828D295B-5F22-40DA-AE64-58EE2A23B70E}" path="MJ_3_Script.js" />
+		<child name="MJ_4_Script" key="{EE602FA3-12D3-4541-A1CE-A8EE4F26487F}" path="MJ_4_Script.js" />
+		<child name="MJ_5_Script" key="{0817AA6B-45AD-42DE-BFCE-2EE06DD04191}" path="MJ_5_Script.js" />
+	</children>
+</Root>

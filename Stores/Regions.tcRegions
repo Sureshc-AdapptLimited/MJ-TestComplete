@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="15.0">
+	<children>
+		<child name="panelMicrosoftWordDocument" key="{A3D115FC-32BB-40BC-9162-C4A26158F040}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="panelMicrosoftWordDocument" ID="{A3D115FC-32BB-40BC-9162-C4A26158F040}" FileName="Regions\panelMicrosoftWordDocument.png" Update="False" />
+		</child>
+		<child name="panelMicrosoftWordDocument1" key="{B23596B3-66D5-489C-8123-027110BBF08B}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="panelMicrosoftWordDocument1" ID="{B23596B3-66D5-489C-8123-027110BBF08B}" FileName="Regions\panelMicrosoftWordDocument1.png" Update="False" />
+		</child>
+		<child name="panelMicrosoftWordDocument2" key="{9A373BF0-1DA3-49A3-BC8B-F8915EA20D83}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="panelMicrosoftWordDocument2" ID="{9A373BF0-1DA3-49A3-BC8B-F8915EA20D83}" FileName="Regions\panelMicrosoftWordDocument2.png" Update="False" />
+		</child>
+		<child name="panelMicrosoftWordDocument3" key="{AF8411E7-D76B-4B6E-811D-2ED55394309C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="panelMicrosoftWordDocument3" ID="{AF8411E7-D76B-4B6E-811D-2ED55394309C}" FileName="Regions\panelMicrosoftWordDocument3.png" Update="False" />
+		</child>
+		<child name="panelMicrosoftWordDocument4" key="{1DED04B7-76A9-4A29-9D5A-66899EFAAC4A}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="panelMicrosoftWordDocument4" ID="{1DED04B7-76A9-4A29-9D5A-66899EFAAC4A}" FileName="Regions\panelMicrosoftWordDocument4.png" Update="False" />
+		</child>
+		<child name="panelMicrosoftWordDocument5" key="{4E6C17A8-360C-46A2-A2BF-527E7338BB18}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="panelMicrosoftWordDocument5" ID="{4E6C17A8-360C-46A2-A2BF-527E7338BB18}" FileName="Regions\panelMicrosoftWordDocument5.png" Update="False" />
+		</child>
+		<child name="panelMicrosoftWordDocument6" key="{FF0E980F-3212-414E-A577-6B20B633FE1C}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="panelMicrosoftWordDocument6" ID="{FF0E980F-3212-414E-A577-6B20B633FE1C}" FileName="Regions\panelMicrosoftWordDocument6.png" Update="False" />
+		</child>
+		<child name="panelMicrosoftWordDocument7" key="{EE76B643-00A3-4D53-9F20-E8354113C6C8}">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="15.0" caption="panelMicrosoftWordDocument7" ID="{EE76B643-00A3-4D53-9F20-E8354113C6C8}" FileName="Regions\panelMicrosoftWordDocument7.png" Update="False" />
+		</child>
+	</children>
+</Root>

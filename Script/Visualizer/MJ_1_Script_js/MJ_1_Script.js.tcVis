@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{19D3ED3D-486E-4136-AA95-60DEFCA963F3}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="13" kind="0" dateTime="45161.4015625" objectName="Aliases.WINWORD.formWord.FullpageUIHost.NetUIHWND" objectLeft="0" objectTop="0" objectRight="1366" objectBottom="728" clickPointX="68" clickPointY="389" imageFileName="tcvi17240670378880.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="17" kind="0" dateTime="45161.4059259259" objectName="Aliases.WINWORD.formCreateDemoDocMasterCopyWord.panel.panelCreateDemoDocMasterCopy.panelMicrosoftWordDocument" objectLeft="389" objectTop="309" objectRight="453" objectBottom="322" clickPointX="398" clickPointY="317" imageFileName="tcvi172783453114642.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

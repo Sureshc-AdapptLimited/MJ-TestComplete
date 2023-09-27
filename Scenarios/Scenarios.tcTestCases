@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenarios>
+	<Feature Path="MJ_1.feature" />
+	<Feature Path="MJ_2.feature" />
+	<Feature Path="MJ-3.feature" />
+	<Feature Path="MJ-4.feature" />
+	<Feature Path="MJ_5.feature" />
+</Scenarios>

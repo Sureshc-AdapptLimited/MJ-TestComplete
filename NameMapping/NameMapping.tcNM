@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{9522E751-44CC-49F1-9F2F-11B08AFB41BC}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="WINWORD" Key="{C9E5AF0E-71BD-490E-9D48-0A755C624DA5}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="WINWORD" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="formWord" Key="{2C47C27A-BF98-4FE2-887D-AA0120CDBBB2}">
+								<Image FileName="1469521524" Left="-8" Top="-8" Right="1374" Bottom="736" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Form" />
+									</Property>
+									<Property Name="Caption">
+										<Value Value="Word" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="FullpageUIHost" Key="{0C150388-FDE7-4FF0-9EC9-CA6B127A778B}">
+										<Image FileName="1469521524" Left="0" Top="0" Right="1366" Bottom="728" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="FullpageUIHost" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="NetUIHWND" Key="{D7711FB1-9151-4346-836B-83D149654BC0}">
+												<Image FileName="1469521524" Left="0" Top="0" Right="1366" Bottom="728" />
+												<TypeInfo Item0="{FC96679F-0BA9-44F5-8DD4-DE9B253CA3D3}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="NetUIHWND" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="formCreateDemoDocMasterCopyWord" Key="{BDE15508-CB6D-4D09-B8E7-6AFDC8FC5EF7}">
+								<Image FileName="2050241216" Left="-8" Top="-8" Right="1374" Bottom="736" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Form" />
+									</Property>
+									<Property Name="WndClass">
+										<Value Value="OpusApp" />
+									</Property>
+									<Property Name="ObjectGroupIndex">
+										<Value Value="1" Type="0" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelMsodocktop" Key="{78637FB3-95AC-4C78-814C-02D7456614C7}">
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="Caption">
+												<Value Value="MsoDockTop" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="toolbar" Key="{8E12FACC-04CC-484B-A4BB-E4CE08ED7F8A}">
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MsoCommandBar" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value="Ribbon" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="Ribbon" Key="{D737FF5E-6915-48FF-8736-5901DBE6D03B}">
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="MsoWorkPane" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="Ribbon" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NUIPane" Key="{C13BA68D-6440-44E8-AF94-B9BB454F0075}">
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="NUIPane" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="NetUIHWND" Key="{9688F493-6D76-44B4-BD5C-F84D6790E501}">
+																		<TypeInfo Item0="{FC96679F-0BA9-44F5-8DD4-DE9B253CA3D3}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="NetUIHWND" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panelMsodockright" Key="{DC34A87B-CCEB-47F7-8A7F-13187AFE5D3B}">
+										<Properties>
+											<Property Name="ObjectType">
+												<Value Value="Panel" />
+											</Property>
+											<Property Name="Caption">
+												<Value Value="MsoDockRight" />
+											</Property>
+											<Property Name="ObjectGroupIndex">
+												<Value Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="toolbar" Key="{C0182C74-B83E-439B-85ED-18363E528281}">
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MsoCommandBar" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value Value=" " />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="MsoWorkPane" Key="{364E71F4-51C0-435B-801B-79B1FBB9CF4A}">
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="MsoWorkPane" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="LexisNexis®" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NUIPane" Key="{8F044E63-3DAA-48BA-A1DD-AE2C716B68A4}">
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="NUIPane" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="NetUIHWND" Key="{018E08FA-BCA0-445A-AED2-34D7ECAEF508}">
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="NetUIHWND" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="NetUICtrlNotifySink" Key="{5BD77D6A-A175-4A8F-9573-90CDBAD5EF58}">
+																				<Properties>
+																					<Property Name="WndClass">
+																						<Value Value="NetUICtrlNotifySink" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="CMMOcxHostChildWindowMixedMode" Key="{E3BBBFAD-C70A-49DB-B64B-9CB65AF68C26}">
+																						<Properties>
+																							<Property Name="WndClass">
+																								<Value Value="CMMOcxHostChildWindowMixedMode" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="CMMOcxHost" Key="{99C2996F-2201-476F-99AF-258712BB48F2}">
+																								<Properties>
+																									<Property Name="WndClass">
+																										<Value Value="CMMOcxHost" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="OsfAxControl" Key="{986120EB-0757-4A4C-9540-B95C7CB1A4E0}">
+																										<Properties>
+																											<Property Name="WndClass">
+																												<Value Value="OsfAxControl" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="WebView2Holder" Key="{B116E39A-402C-49C6-B910-0BB2489FFEEE}">
+																												<Properties>
+																													<Property Name="WndClass">
+																														<Value Value="WebView2Holder" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="Chrome_WidgetWin_0" Key="{514D3B93-11A8-4783-9BC7-957B24D45E7A}">
+																														<TypeInfo Item0="{FC96679F-0BA9-44F5-8DD4-DE9B253CA3D3}" />
+																														<Properties>
+																															<Property Name="WndClass">
+																																<Value Value="Chrome_WidgetWin_0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="Chrome_WidgetWin_1" Key="{4A2DD658-281F-43EA-9C33-5BFF5DB05F03}">
+																																<Image FileName="-797611933" Left="1031" Top="209" Right="1351" Bottom="691" />
+																																<Properties>
+																																	<Property Name="WndClass">
+																																		<Value Value="Chrome_WidgetWin_1" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="Chrome_RenderWidgetHostHWND" Key="{AB3F6CA7-5594-4868-AAB5-822C77ECB9A5}">
+																																		<Image FileName="-797611933" Left="1031" Top="209" Right="1351" Bottom="691" />
+																																		<TypeInfo Item0="{FC96679F-0BA9-44F5-8DD4-DE9B253CA3D3}" />
+																																		<Properties>
+																																			<Property Name="WndClass">
+																																				<Value Value="Chrome_RenderWidgetHostHWND" />
+																																			</Property>
+																																			<Property Name="WndCaption">
+																																				<Value Value="Chrome Legacy Window" />
+																																			</Property>
+																																		</Properties>
+																																	</Child>
+																																</Children>
+																															</Child>
+																															<Child Name="Chrome_WidgetWin_12" Key="{83216167-0B90-467D-B7DB-CEE97E32EAFD}">
+																																<Image FileName="-799810907" Left="1031" Top="209" Right="1351" Bottom="691" />
+																																<Properties>
+																																	<Property Name="WndClass">
+																																		<Value Value="Chrome_WidgetWin_1" />
+																																	</Property>
+																																	<Property Name="WndCaption">
+																																		<Value Value="pdc1c-maximuslmo.globalplatform.route53.lexis.com" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="Chrome_RenderWidgetHostHWND" Key="{557B6DBE-4405-4AE1-A297-0468E3482612}">
+																																		<Image FileName="-799810907" Left="1031" Top="209" Right="1351" Bottom="691" />
+																																		<TypeInfo Item0="{FC96679F-0BA9-44F5-8DD4-DE9B253CA3D3}" />
+																																		<Properties>
+																																			<Property Name="WndClass">
+																																				<Value Value="Chrome_RenderWidgetHostHWND" />
+																																			</Property>
+																																			<Property Name="WndCaption">
+																																				<Value Value="Chrome Legacy Window" />
+																																			</Property>
+																																		</Properties>
+																																	</Child>
+																																	<Child Name="Chrome_RenderWidgetHostHWND2" Key="{DC0F8D2A-0EFD-425C-94E2-FFC3E3C94210}">
+																																		<Image FileName="1022090181" Left="1031" Top="209" Right="1351" Bottom="691" />
+																																		<TypeInfo Item0="{FC96679F-0BA9-44F5-8DD4-DE9B253CA3D3}" />
+																																		<Properties>
+																																			<Property Name="WndClass">
+																																				<Value Value="Chrome_RenderWidgetHostHWND" />
+																																			</Property>
+																																			<Property Name="WndCaption">
+																																				<Value Value="Chrome Legacy Window" />
+																																			</Property>
+																																			<Property Name="Index">
+																																				<Value Value="1" Type="0" />
+																																			</Property>
+																																		</Properties>
+																																	</Child>
+																																</Children>
+																															</Child>
+																															<Child Name="Chrome_WidgetWin_13" Key="{DC2AF8CC-419D-4610-A45D-4AF9E0B9AEFA}">
+																																<Image FileName="-1220290003" Left="1031" Top="209" Right="1351" Bottom="691" />
+																																<Properties>
+																																	<Property Name="WndClass">
+																																		<Value Value="Chrome_WidgetWin_1" />
+																																	</Property>
+																																	<Property Name="WndCaption">
+																																		<Value Value="pdc1c-maximuslmo.globalplatform.route53.lexis.com/?_host_Info=Word$Win32$16.01$en-US$$$$0" />
+																																	</Property>
+																																</Properties>
+																																<Children>
+																																	<Child Name="Chrome_RenderWidgetHostHWND" Key="{D06D0B54-5E76-45CB-998A-AEE2087185F0}">
+																																		<Image FileName="-1220290003" Left="1031" Top="209" Right="1351" Bottom="691" />
+																																		<TypeInfo Item0="{FC96679F-0BA9-44F5-8DD4-DE9B253CA3D3}" />
+																																		<Properties>
+																																			<Property Name="WndClass">
+																																				<Value Value="Chrome_RenderWidgetHostHWND" />
+																																			</Property>
+																																			<Property Name="WndCaption">
+																																				<Value Value="Chrome Legacy Window" />
+																																			</Property>
+																																		</Properties>
+																																	</Child>
+																																</Children>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="NetUINativeHWNDHost" Key="{2A1439B4-55EC-422D-81B3-AFCE04CB9D5E}">
+														<Image FileName="15488738" Left="1024" Top="168" Right="1358" Bottom="201" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="NetUINativeHWNDHost" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value=" " />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="NetUIHWND" Key="{A1FCCA83-0CCF-4C9A-9A63-84574A334028}">
+																<Image FileName="15488738" Left="1024" Top="168" Right="1358" Bottom="201" />
+																<TypeInfo Item0="{FC96679F-0BA9-44F5-8DD4-DE9B253CA3D3}" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="NetUIHWND" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panel" Key="{52183AFF-2401-4624-9B2E-A8678978CE21}">
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="_WwF" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelCreateDemoDocMasterCopy" Key="{2006A494-5542-4E82-85A6-FFFF74A4F319}">
+												<Properties>
+													<Property Name="ObjectType">
+														<Value Value="Panel" />
+													</Property>
+													<Property Name="WndClass">
+														<Value Value="_WwB" />
+													</Property>
+													<Property Name="ObjectGroupIndex">
+														<Value Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelMicrosoftWordDocument" Key="{EA255A5B-55CE-4AAA-9A5B-383B23C51026}">
+														<TypeInfo Item0="{368A8F1C-C898-43EE-A1B5-CD17A3366924}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value Value="Panel" />
+															</Property>
+															<Property Name="Caption">
+																<Value Value="Microsoft Word Document" />
+															</Property>
+															<Property Name="ObjectGroupIndex">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="WwG" Key="{B8EECAAE-6923-4376-AE0C-E49359A505A2}">
+														<Image FileName="-1559912973" Left="0" Top="161" Right="916" Bottom="706" />
+														<TypeInfo Item0="{FC96679F-0BA9-44F5-8DD4-DE9B253CA3D3}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="_WwG" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="Microsoft Word Document" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="wndNetUIToolWindow" Key="{DD91D88D-0BD2-47F5-A96D-37AF205D04E9}">
+								<Image FileName="-289276121" Left="0" Top="0" Right="295" Bottom="161" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Net UI Tool Window" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="NetUIHWND" Key="{E74B1E79-7D0A-4BDF-A5B3-B7A1F673C001}">
+										<Image FileName="-289276121" Left="0" Top="0" Right="295" Bottom="161" />
+										<TypeInfo Item0="{FC96679F-0BA9-44F5-8DD4-DE9B253CA3D3}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="NetUIHWND" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="ApplicationFrameHost" Key="{E636673E-316D-49C9-B10B-5FFB2719EF4E}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="ApplicationFrameHost" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndSettings" Key="{A08E9A69-BA5C-4933-AB89-5C9EB76C939B}">
+								<Image FileName="-1404666459" Left="-8" Top="-8" Right="1374" Bottom="736" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="ApplicationFrameWindow" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Settings" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="msedgewebview2" Key="{7B7A2606-BB60-4BFA-A777-478F33A97611}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="msedgewebview2" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndChrome_WidgetWin_1" Key="{5886C262-74CA-43EE-8825-667DCC6F269F}">
+								<Image FileName="256080650" Left="0" Top="0" Right="364" Bottom="199" />
+								<TypeInfo Item0="{44E2F7F0-07BE-4739-90CC-910573C40F13}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Chrome_WidgetWin_1" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+			<Child Name="Chrome_WidgetWin_1" Key="{DE48DEC2-2244-4DF4-ACD8-A821FB8535A6}">
+				<Image FileName="1748688627" Left="1031" Top="209" Right="1351" Bottom="691" />
+				<Properties>
+					<Property Name="WndClass">
+						<Value Value="Chrome_WidgetWin_1" />
+					</Property>
+					<Property Name="WndCaption">
+						<Value Value="pdc1c-maximuslmo.globalplatform.route53.lexis.com/?_host_Info=Word$Win32$16.01$en-US$$$$0" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="Chrome_RenderWidgetHostHWND" Key="{E63DFEAB-FED3-449C-811B-40DC319E7AB9}">
+						<Image FileName="1748688627" Left="1031" Top="209" Right="1351" Bottom="691" />
+						<TypeInfo Item0="{FC96679F-0BA9-44F5-8DD4-DE9B253CA3D3}" />
+						<Properties>
+							<Property Name="WndClass">
+								<Value Value="Chrome_RenderWidgetHostHWND" />
+							</Property>
+							<Property Name="WndCaption">
+								<Value Value="Chrome Legacy Window" />
+							</Property>
+						</Properties>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="WINWORD" Owner="{C9E5AF0E-71BD-490E-9D48-0A755C624DA5}">
+			<Child Name="formWord" Owner="{2C47C27A-BF98-4FE2-887D-AA0120CDBBB2}">
+				<Child Name="FullpageUIHost" Owner="{0C150388-FDE7-4FF0-9EC9-CA6B127A778B}">
+					<Child Name="NetUIHWND" Owner="{D7711FB1-9151-4346-836B-83D149654BC0}" />
+				</Child>
+			</Child>
+			<Child Name="formCreateDemoDocMasterCopyWord" Owner="{BDE15508-CB6D-4D09-B8E7-6AFDC8FC5EF7}">
+				<Child Name="panelMsodocktop" Owner="{78637FB3-95AC-4C78-814C-02D7456614C7}">
+					<Child Name="toolbar" Owner="{8E12FACC-04CC-484B-A4BB-E4CE08ED7F8A}">
+						<Child Name="Ribbon" Owner="{D737FF5E-6915-48FF-8736-5901DBE6D03B}">
+							<Child Name="NUIPane" Owner="{C13BA68D-6440-44E8-AF94-B9BB454F0075}">
+								<Child Name="NetUIHWND" Owner="{9688F493-6D76-44B4-BD5C-F84D6790E501}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="panelMsodockright" Owner="{DC34A87B-CCEB-47F7-8A7F-13187AFE5D3B}">
+					<Child Name="toolbar" Owner="{C0182C74-B83E-439B-85ED-18363E528281}">
+						<Child Name="MsoWorkPane" Owner="{364E71F4-51C0-435B-801B-79B1FBB9CF4A}">
+							<Child Name="NUIPane" Owner="{8F044E63-3DAA-48BA-A1DD-AE2C716B68A4}">
+								<Child Name="NetUIHWND" Owner="{018E08FA-BCA0-445A-AED2-34D7ECAEF508}">
+									<Child Name="NetUICtrlNotifySink" Owner="{5BD77D6A-A175-4A8F-9573-90CDBAD5EF58}">
+										<Child Name="CMMOcxHostChildWindowMixedMode" Owner="{E3BBBFAD-C70A-49DB-B64B-9CB65AF68C26}">
+											<Child Name="CMMOcxHost" Owner="{99C2996F-2201-476F-99AF-258712BB48F2}">
+												<Child Name="OsfAxControl" Owner="{986120EB-0757-4A4C-9540-B95C7CB1A4E0}">
+													<Child Name="WebView2Holder" Owner="{B116E39A-402C-49C6-B910-0BB2489FFEEE}">
+														<Child Name="Chrome_WidgetWin_0" Owner="{514D3B93-11A8-4783-9BC7-957B24D45E7A}">
+															<Child Name="Chrome_WidgetWin_1" Owner="{4A2DD658-281F-43EA-9C33-5BFF5DB05F03}">
+																<Child Name="Chrome_RenderWidgetHostHWND" Owner="{AB3F6CA7-5594-4868-AAB5-822C77ECB9A5}" />
+															</Child>
+															<Child Name="Chrome_WidgetWin_12" Owner="{83216167-0B90-467D-B7DB-CEE97E32EAFD}">
+																<Child Name="Chrome_RenderWidgetHostHWND" Owner="{557B6DBE-4405-4AE1-A297-0468E3482612}" />
+																<Child Name="Chrome_RenderWidgetHostHWND2" Owner="{DC0F8D2A-0EFD-425C-94E2-FFC3E3C94210}" />
+															</Child>
+															<Child Name="Chrome_WidgetWin_13" Owner="{DC2AF8CC-419D-4610-A45D-4AF9E0B9AEFA}">
+																<Child Name="Chrome_RenderWidgetHostHWND" Owner="{D06D0B54-5E76-45CB-998A-AEE2087185F0}" />
+															</Child>
+														</Child>
+													</Child>
+												</Child>
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+						<Child Name="NetUINativeHWNDHost" Owner="{2A1439B4-55EC-422D-81B3-AFCE04CB9D5E}">
+							<Child Name="NetUIHWND" Owner="{A1FCCA83-0CCF-4C9A-9A63-84574A334028}" />
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="panel" Owner="{52183AFF-2401-4624-9B2E-A8678978CE21}">
+					<Child Name="panelCreateDemoDocMasterCopy" Owner="{2006A494-5542-4E82-85A6-FFFF74A4F319}">
+						<Child Name="panelMicrosoftWordDocument" Owner="{EA255A5B-55CE-4AAA-9A5B-383B23C51026}" />
+						<Child Name="WwG" Owner="{B8EECAAE-6923-4376-AE0C-E49359A505A2}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="wndNetUIToolWindow" Owner="{DD91D88D-0BD2-47F5-A96D-37AF205D04E9}">
+				<Child Name="NetUIHWND" Owner="{E74B1E79-7D0A-4BDF-A5B3-B7A1F673C001}" />
+			</Child>
+		</Child>
+		<Child Name="ApplicationFrameHost" Owner="{E636673E-316D-49C9-B10B-5FFB2719EF4E}">
+			<Child Name="wndSettings" Owner="{A08E9A69-BA5C-4933-AB89-5C9EB76C939B}" />
+		</Child>
+		<Child Name="msedgewebview2" Owner="{7B7A2606-BB60-4BFA-A777-478F33A97611}">
+			<Child Name="wndChrome_WidgetWin_1" Owner="{5886C262-74CA-43EE-8825-667DCC6F269F}" />
+		</Child>
+		<Child Name="Chrome_RenderWidgetHostHWND" Owner="{E63DFEAB-FED3-449C-811B-40DC319E7AB9}" />
+	</LogicalNodes>
+</Root>
